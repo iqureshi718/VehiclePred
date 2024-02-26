@@ -1,1 +1,2 @@
 # VehiclePred
+Using the Washington State Dataset for electric vehicles, i wanted to find out if there was any correlation to the range an electric vehicle has and the number of sales for those vehicles. After cleaning and wrangling data, i realized the dataset classified hybrid vehicles as a "electric vehicle" in the dataset and there was no real correlation between the two variables. I will update this once I progress further.
